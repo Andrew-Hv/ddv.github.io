@@ -1,0 +1,11 @@
+@media screen and (max-width: 1279px) {
+    .wrapper {
+        padding: 0 32px;
+    }
+    .header__contacts-email, .header__contacts-address {
+        font-size: 14px;
+    }
+    .header__callback-btn {
+        padding: 10px 20px;
+    }
+}
